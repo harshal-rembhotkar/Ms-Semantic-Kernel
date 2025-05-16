@@ -25,7 +25,7 @@ async def main():
     """
 
     summary = await summarize.invoke_async(text)
-    print("\n🔍 Summary:")
+    print("\n Summary:")
     print(summary)
 
     # Use native plugin
@@ -36,7 +36,7 @@ async def main():
     """
     poet = kernel.create_semantic_function(prompt)
     result = await poet.invoke_async("")
-    print("\n🎨 Poem:")
+    print("\n Poem:")
     print(result)
 
 if __name__ == "__main__":
