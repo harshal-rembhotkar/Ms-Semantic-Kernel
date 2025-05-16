@@ -1,6 +1,7 @@
 # Semantic Kernel App
 
 This is a sample project demonstrating the use of Microsoft's Semantic Kernel SDK in Python.
+
 👉 [Checkout this blog for more insights](https://harshalr.hashnode.dev/getting-started-with-microsoft-semantic-kernel-a-simple-guide-to-prompts-and-plugins-in-python) 
 
 ## 🧠 Features
